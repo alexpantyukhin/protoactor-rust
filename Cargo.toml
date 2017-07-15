@@ -1,0 +1,7 @@
+[package]
+name = "protoactor"
+version = "0.1.0"
+authors = ["Alexander Panrtyukhin <alexander.panrtyukhin@ext.telliq.com>"]
+
+[dependencies]
+futures = "0.1.14"
